@@ -16,17 +16,18 @@ h2 {
 	font-weight: 300;
 	font-size: 24px;
 	font-weight: lighter;
+
 }
 h1,h2 {
-	color: rgb(0, 255, 29);
+	color: rgb(165, 139, 9);
 }
 
 
 a {
 	text-decoration: none;
-	color: red;
+	color: rgb(219, 39, 39);
 	font-weight: 600;
-	font-size: 16px;
+	font-size: 30px;
 }
 a:hover{
 	color: blue;
@@ -53,16 +54,14 @@ a:hover{
 	border-radius: 50%;
 }
 
-.btn-blue{
-	background-color: blue;
-	color: white;
-	padding: 15px 20px;
-	border-radius: 4px;
-}
+.btn-blue{    color: rgb(50, 55, 218);
+    font-size: small;
+    font-family: monospace;
+    block-size: unset;
+    background-size: contain;
+    background-color: blue;
+	
 
-.btn-blue:hover{
-	background-color: black;
-	color: white;
 }
 
 .list-inline{
@@ -88,10 +87,11 @@ a:hover{
 }
 
 
+button {
 
+	    background-color: plum;
+    font-size: medium;
+    font-style: oblique;
 
-
-
-
-
+}
 
