@@ -30,7 +30,7 @@ a {
 	font-size: 30px;
 }
 a:hover{
-	color: blue;
+	color:blue;
 }
 
 .container {
@@ -90,8 +90,7 @@ a:hover{
 button {
 
 	    background-color: plum;
-    font-size: medium;
+    font-size:  large;
     font-style: oblique;
 
 }
-
