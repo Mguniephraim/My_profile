@@ -126,3 +126,7 @@ a button {
     align-items: center;
     color: #348efe;
 }
+
+#steel:hover {
+    color: blue;
+}
