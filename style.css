@@ -18,6 +18,14 @@ h2 {
     font-weight: lighter;
 }
 
+span {
+    color: #348efe;
+}
+
+sub {
+    color: rebeccapurple;
+}
+
 h1,
 h2 {
     color: rgb(165, 139, 9);
