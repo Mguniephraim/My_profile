@@ -22,13 +22,8 @@ span {
     color: #348efe;
 }
 
-sub {
+h1 {
     color: rebeccapurple;
-}
-
-h1,
-h2 {
-    color: rgb(165, 139, 9);
 }
 
 a {
@@ -36,10 +31,6 @@ a {
     color: rgb(219, 39, 39);
     font-weight: 600;
     font-size: 30px;
-}
-
-button:hover {
-    color: blue;
 }
 
 .container {
@@ -59,15 +50,6 @@ button:hover {
 .img-circle {
     border-radius: 50%;
     margin: 20px;
-}
-
-.btn-blue {
-    color: rgb(50, 55, 218);
-    font-size: small;
-    font-family: monospace;
-    block-size: unset;
-    background-size: contain;
-    background-color: blue;
 }
 
 .list-inline {
@@ -117,12 +99,6 @@ div:nth-of-type(4) {
     background-color: #f5d9df;
 }
 
-@media (max-width:1200px) {
-    body {
-        background-color: #348efe;
-    }
-}
-
 p {
     font-size: 20px;
     font-weight: 400;
@@ -137,4 +113,10 @@ a button {
 
 #steel:hover {
     color: blue;
+}
+
+@media (min-width:360px) {
+    h1 {
+        font-size: 20px !important;
+    }
 }
